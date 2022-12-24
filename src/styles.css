@@ -1,0 +1,17 @@
+h2 {
+    margin: 10px 0;
+}
+
+a {
+    height: 30px;
+    width: 100px;
+    margin-right: 5px;
+    text-decoration: none;
+    cursor: default;
+}
+
+a button {
+    height: 30px;
+    width: 100px;
+    cursor: pointer;
+}
